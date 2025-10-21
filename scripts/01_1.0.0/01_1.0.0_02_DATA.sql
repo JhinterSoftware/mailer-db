@@ -1,0 +1,1 @@
+INSERT INTO mailer.mail_account(server, port, address, password, enabled) VALUES ('smtp.ionos.mx', 587, 'mensajes.automaticos@jhintersoftware.com', 'Printilin#2022_', true);
